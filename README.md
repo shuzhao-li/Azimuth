@@ -4,6 +4,16 @@ Azimuth
 Azimuth - the chemical database of biology
 
 
+If you are looking for metabolic models, they are under
+    metabolic_models/
+    chemical_tables/
+
+
+
+Planning
+========
+
+
 **The repo Wiki is used for organization.**
 
 
